@@ -1,5 +1,6 @@
 # Sensor Dashboard 
 
+### Team: Giacomo di Bert, Pietro Ciot , Deni Humblla , Eva Dal Cin, Matteo Santi
 ## Descrizione
 Sensor Dashboard è un'applicazione web per il monitoraggio in tempo reale di sensori ambientali Arduino.
 Il sistema utilizza un Arduino con vari sensori per raccogliere dati ambientali e li visualizza in modo interattivo.
